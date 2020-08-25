@@ -1,5 +1,5 @@
 ### Digital Product Designer
-Co-Founder, CPO @ [Volla Inc.](https://github.com/VollaInc)
+Co-Founder, CPO [@Volla Inc.](https://github.com/VollaInc)
 
 #### Interests
 - UX Design
