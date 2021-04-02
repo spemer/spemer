@@ -11,3 +11,6 @@ Co-Founder, CPO [@Volla Inc.](https://github.com/VollaInc)
 
 ### Portfolio
 - [https://spemer.com](https://spemer.com)
+
+### Contact
+- ghsspower{at}gmail.com
