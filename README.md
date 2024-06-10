@@ -14,3 +14,5 @@ Co-Founder, CPO [@Volla Inc.](https://github.com/VollaInc)
 
 ### 👨‍💻 Contact
 - ghsspower{at}gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spemer&langs_count=5&layout=compact&theme=omni)](https://github.com/spemer/spemer)﻿
